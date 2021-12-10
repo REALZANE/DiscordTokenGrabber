@@ -11,3 +11,4 @@ Only made for educational purposes.
 5. let it run.
 6. there will be a folder created called dist.
 7. open it and there's your exe file.
+
